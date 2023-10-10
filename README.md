@@ -2,7 +2,7 @@
 Face Detection is a process that involves identifying the face of a person in an image or video by analyzing the visual input which helps to determine whether the person's facial features are present.
 Smile detention is a subset of facial recognition technology and it is to ensure that people are in a good mood when they are being photographed.
 
-This project utilises the Haar Cascade Classifier.The Haar Cascade Classifier is a pre-trained classifier having a cascade function which is trained from a set of images with faces and images without faces.
+This project utilises the Haar Cascade Classifier.The Haar Cascade Classifier is a pre-trained classifier having a cascade function which is trained from a set of images with faces and images without faces.In this project the face,eyes and smile of the person are detected.
 
 ORIGINAL IMAGE
 -
