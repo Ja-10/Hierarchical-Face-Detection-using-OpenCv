@@ -1,4 +1,4 @@
-# Hierarchical-Detection-using-OpenCv
+# Hierarchical-Face-Detection-using-OpenCv
 Face Detection is a process that involves identifying the face of a person in an image or video by analyzing the visual input which helps to determine whether the person's facial features are present.
 Smile detention is a subset of facial recognition technology and it is to ensure that people are in a good mood when they are being photographed.
 
